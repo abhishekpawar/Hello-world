@@ -1,0 +1,3 @@
+Hello world
+
+I started using GIT
